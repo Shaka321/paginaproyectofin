@@ -10,9 +10,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21774&authkey=%21AK0zRkCakoSyC3Y&width=872&height=608">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-          <p class="mt-1">$16.00</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tercera modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Preproduccion</h2>
+          <p class="mt-1">Idea central del servicio</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -20,9 +20,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21776&authkey=%21ABp1peqjxQOhj2Y&width=952&height=536">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-          <p class="mt-1">$21.15</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tercera modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Producción</h2>
+          <p class="mt-1">Escenas de grabación y audio</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -30,9 +30,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21777&authkey=%21AF3tmaL-F2KGXvQ&width=832&height=533">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-          <p class="mt-1">$12.00</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tercera modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Postproduccion</h2>
+          <p class="mt-1">Ajuste para la secuencia final</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -40,9 +40,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21778&authkey=%21ABqdYbGf2PLbkgA&width=786&height=439">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-          <p class="mt-1">$18.40</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tercera modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Presentacion</h2>
+          <p class="mt-1">Comparte el video en clase</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -50,9 +50,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21782&authkey=%21AJyoyzKmljw0_yI&width=1921&height=1081">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-          <p class="mt-1">$16.00</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Última modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Modificacion</h2>
+          <p class="mt-1">Ver más</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -60,9 +60,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21780&authkey=%21AGR_5nyPV-L1PME&width=916&height=679">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-          <p class="mt-1">$21.15</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Última modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Arreglos</h2>
+          <p class="mt-1">Ver más</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -70,9 +70,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21779&authkey=%21AHx3eqk4qZjHPsY&width=900&height=672">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-          <p class="mt-1">$12.00</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Última modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Ajustes</h2>
+          <p class="mt-1">Ver más</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -80,9 +80,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21781&authkey=%21ALOaTBacDCZsBHA&width=634&height=470">
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-          <p class="mt-1">$18.40</p>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Última modificacion</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Mejoras</h2>
+          <p class="mt-1">Ver más</p>
         </div>
       </div>
     </div>
@@ -101,8 +101,8 @@ import TheWelcome from '../components/TheWelcome.vue'
           </svg>
         </div>
         <div class="flex-grow">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Shooting Stars</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Gratuito y de Código Abierto:</h2>
+          <p class="leading-relaxed text-base">Shotcut es una opción accesible para usuarios con presupuestos limitados, siendo gratuito y de código abierto, lo que permite transparencia y personalización.</p>
           <a class="mt-3 text-green-500 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -119,8 +119,8 @@ import TheWelcome from '../components/TheWelcome.vue'
           </svg>
         </div>
         <div class="flex-grow">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">The Catalyzer</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Interfaz Intuitiva y Flexible:</h2>
+          <p class="leading-relaxed text-base">Con una interfaz fácil de usar, Shotcut ofrece herramientas versátiles de edición, efectos y filtros, facilitando la creación de videos incluso para usuarios sin experiencia previa.</p>
           <a class="mt-3 text-green-500 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -135,15 +135,7 @@ import TheWelcome from '../components/TheWelcome.vue'
             <circle cx="12" cy="7" r="4"></circle>
           </svg>
         </div>
-        <div class="flex-grow">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Neptune</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
-          <a class="mt-3 text-green-500 inline-flex items-center">Learn More
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-              <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
+        
       </div>
     </div>
   </div>

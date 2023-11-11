@@ -6,26 +6,26 @@ import TheWelcome from '../components/TheWelcome.vue'
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap w-full mb-20">
       <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
-        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Pitchfork Kickstarter Taxidermy</h1>
+        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Elaboracion de logo</h1>
         <div class="h-1 w-20 bg-green-500 rounded"></div>
       </div>
-      <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+      <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Elaborar un logo es esencial para construir la identidad de una marca. Un logo bien diseñado facilita la identificación y reconocimiento, diferenciación en un mercado competitivo, transmite valores y personalidad, crea una imagen de profesionalismo, garantiza consistencia de marca, facilita la recordación, atrae visualmente a los clientes, es versátil en su uso, contribuye a la credibilidad y simplifica la retención en la mente de los consumidores. Utilizamos las siguientes herramientas para esta tercera presentacion y son:</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21769&authkey=%21AJJ_q755jMZ50ck&width=700&height=393" alt="content">
-          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Chichen Itza</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font"></h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">CapCut</h2>
+          <p class="leading-relaxed text-base"> Es una aplicación de edición de video que se utiliza principalmente para cortar, unir y editar clips de video en dispositivos móviles.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21771&authkey=%21AB937MmtAUf2I0A&width=640&height=480" alt="content">
-          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Colosseum Roma</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font"></h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Canva</h2>
+          <p class="leading-relaxed text-base"> La función de IA en Canva sugiere automáticamente elementos de diseño, colores y tipografías basándose en las preferencias y el estilo de diseño del usuario.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
@@ -33,7 +33,7 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21768&authkey=%21AJNPnOAxLREkA-Q&width=600&height=400" alt="content">
           <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Great Pyramid of Giza</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+          <p class="leading-relaxed text-base">Canva es una plataforma en línea fácil de usar que te permite crear logos de manera sencilla sin necesidad de habilidades de diseño avanzadas. </p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
@@ -41,7 +41,8 @@ import TheWelcome from '../components/TheWelcome.vue'
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21770&authkey=%21AEutdrnTbgVf8pw&width=600&height=300" alt="content">
           <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">San Francisco</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+          <p class="leading-relaxed text-base">
+Adobe Illustrator es un programa de diseño gráfico que permite crear gráficos vectoriales. Es muy utilizado para diseñar logos debido a su capacidad para crear imágenes de alta calidad y escalables.</p>
         </div>
       </div>
     </div>
@@ -54,17 +55,17 @@ import TheWelcome from '../components/TheWelcome.vue'
         <div class="rounded-lg h-96 overflow-hidden">
           <img alt="content" class="object-cover object-center h-full w-full" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21772&authkey=%21AHsDNynqyGho-ho&width=823&height=707">
         </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Buy YouTube Videos</h2>
-        <p class="leading-relaxed text-base">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>
-        <button class="flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-5 focus:outline-none hover:bg-green-600 rounded">Button</button>
+        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Primer Logo</h2>
+        <p class="leading-relaxed text-base">Nuestro primer logo fue realizado a partir de un pensamiento enfocado en la materia de Lenguaje Audiovisual.</p>
+        <button class="flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-5 focus:outline-none hover:bg-green-600 rounded">Ver más</button>
       </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-96 overflow-hidden">
           <img alt="content" class="object-cover object-center h-full w-full" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21759&authkey=%21ANAWODmVpjnRYIg&width=3167&height=2582">
         </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">The Catalyzer</h2>
-        <p class="leading-relaxed text-base">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>
-        <button class="flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-5 focus:outline-none hover:bg-green-600 rounded">Button</button>
+        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Logo final</h2>
+        <p class="leading-relaxed text-base">En el lgo final nos enfocamos más en lo que trata de proyectar el proyecto final en nuestro caso nuestra empresa.</p>
+        <button class="flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-5 focus:outline-none hover:bg-green-600 rounded">Ver más</button>
       </div>
     </div>
   </div>
