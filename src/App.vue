@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header class="bg-stone-200 dark:bg-emerald-700">
     <div class="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
-      <a class="block text-teal-600" href="/">
+      <a class="block dark:text-teal-600" href="/">
         <span class="sr-only">Home</span>
         <img class="w-12 h-12 object-center rounded" alt="hero"
           src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21759&authkey=%21ANAWODmVpjnRYIg&width=3167&height=2582">
