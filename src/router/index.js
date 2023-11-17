@@ -5,6 +5,7 @@ import Mision from '../views/Mision.vue'
 import Vision from '../views/Vision.vue'
 import cuarto from '../views/cuarto.vue'
 import Instalaciones from '../views/Instalaciones.vue'
+import Integrantes from '../views/Integrantes.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -37,6 +38,11 @@ const router = createRouter({
       path: '/instalaciones',
       name: 'instalaciones',
       component: Instalaciones
+    },
+    {
+      path: '/integrantes',
+      name: 'integrantes',
+      component: Integrantes
     }
   ]
 })

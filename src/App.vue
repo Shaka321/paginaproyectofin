@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <header class="bg-stone-200 dark:bg-emerald-700 dark:text-white">
+  <header class="bg-stone-200 dark:bg-emerald-700">
     <div class="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
       <a class="block text-teal-600" href="/">
         <span class="sr-only">Home</span>
@@ -49,6 +49,11 @@ import HelloWorld from './components/HelloWorld.vue'
             <li>
               <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
                 <RouterLink to="/instalaciones">Ver nuestras instalaciones</RouterLink>
+              </a>
+            </li>
+            <li>
+              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <RouterLink to="/integrantes">Socios de la empresa</RouterLink>
               </a>
             </li>
           </ul>
