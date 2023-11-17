@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header class="bg-stone-200 dark:bg-emerald-700">
     <div class="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
-      <a class="block dark:text-teal-600" href="/">
+      <a class="block dark:text-white" href="/">
         <span class="sr-only">Home</span>
         <img class="w-12 h-12 object-center rounded" alt="hero"
           src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21759&authkey=%21ANAWODmVpjnRYIg&width=3167&height=2582">
@@ -16,43 +16,43 @@ import HelloWorld from './components/HelloWorld.vue'
         <nav aria-label="Global" class="hidden md:block">
           <ul class="flex items-center gap-6 text-sm">
             <li>
-              <a class="text-gray-500 transition  dark:text-white" href="/">
+              <a class="text-gray-500 transition dark:text-white" href="/">
 
                 <RouterLink to="/">Home</RouterLink>
               </a>
             </li>
 
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white" href="/">
                 <RouterLink to="/about"> Ver Primer Avance</RouterLink>
               </a>
             </li>
 
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white" href="/">
                 <RouterLink to="/mision">Ver Segundo Avance</RouterLink>
               </a>
             </li>
 
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white" href="/">
                 <RouterLink to="/vision">Ver Tercer Avance</RouterLink>
               </a>
             </li>
 
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white" href="/">
                 <RouterLink to="/cuarto">Ver Cuarto Avance</RouterLink>
               </a>
             </li>
 
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white" href="/">
                 <RouterLink to="/instalaciones">Ver nuestras instalaciones</RouterLink>
               </a>
             </li>
             <li>
-              <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+              <a class="text-gray-500 transition hover:text-gray-500/75 dark:text-white " href="/">
                 <RouterLink to="/integrantes">Socios de la empresa</RouterLink>
               </a>
             </li>
