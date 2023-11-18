@@ -31,7 +31,7 @@ import TheWelcome from '../components/TheWelcome.vue'
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21768&authkey=%21AJNPnOAxLREkA-Q&width=600&height=400" alt="content">
-          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
+          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font"></h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Great Pyramid of Giza</h2>
           <p class="leading-relaxed text-base">Canva es una plataforma en línea fácil de usar que te permite crear logos de manera sencilla sin necesidad de habilidades de diseño avanzadas. </p>
         </div>
@@ -39,8 +39,8 @@ import TheWelcome from '../components/TheWelcome.vue'
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://onedrive.live.com/embed?resid=E92AE6AD4F3C8B9%21770&authkey=%21AEutdrnTbgVf8pw&width=600&height=300" alt="content">
-          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font">SUBTITLE</h3>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">San Francisco</h2>
+          <h3 class="tracking-widest text-green-500 text-xs font-medium title-font"></h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Adobe Illustrator</h2>
           <p class="leading-relaxed text-base">
 Adobe Illustrator es un programa de diseño gráfico que permite crear gráficos vectoriales. Es muy utilizado para diseñar logos debido a su capacidad para crear imágenes de alta calidad y escalables.</p>
         </div>
